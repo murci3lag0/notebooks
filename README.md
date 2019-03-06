@@ -1,2 +1,3 @@
-# notebooks
-Repository with multiple personal notebooks for testing, training and education
+# Jorge notebooks
+
+This repository contains multiple personal notebooks for testing, training and education
